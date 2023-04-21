@@ -1,0 +1,17 @@
+{
+  "name": "service-cource",
+  "version": "1.0.0",
+  "description": "cource-free",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Nguyen Huu Lam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4",
+    "nodemon": "^2.0.22"
+  }
+}
